@@ -16,6 +16,7 @@
           python3
           python313Packages.ipython
           basedpyright
+          pyrefly
         ];
 
         shellHook = ''
