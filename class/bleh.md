@@ -7,13 +7,12 @@
 
 ```python
 if condition :
-        ...# block of code
+    ...# block of code
 elif condition :
-        ...# block of code
-        .
-        .
-        .
+    ...# block of code
+    .
+    .
+    .
 else :
     ...# block of code
 ```
-
