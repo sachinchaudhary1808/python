@@ -1,0 +1,11 @@
+# lecture 7
+print("Plz Enter value for a")
+a = int(input())
+print("Plz Enter value for b")
+b = int(input())
+print(str(a) + " & " + str(b) + " = " + str(a & b))
+print(str(a) + " | " + str(b) + " = " + str(a | b))
+print(str(a) + " ^ " + str(b) + " = " + str(a ^ b))
+print(" ~ " + str(a) + " = " + str(~a))
+print(str(a) + " <<2 = " + str(a << 2))
+print(str(a) + " >>2 = " + str(a >> 2))

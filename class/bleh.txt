@@ -1,0 +1,2 @@
+# this statement is used to run the block of code based on true or flase values returned by conditional statement, if it is true it will execute block of code comes btwif and else otherwise block given after else.
+
