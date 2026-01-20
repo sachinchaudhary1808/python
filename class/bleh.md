@@ -56,6 +56,21 @@ else :
 
 
 
+# for loop
+## range function (increment and decrement)
+
+## for loop example with iteration of tuple
+```python
+chapal = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+
+for i in chapal:
+    print(i)
+
+```
+
+https://www.nseindia.com/api/NextApi/apiClient/GetQuoteApi?functionName=getSymbolData&marketType=N&series=EQ&symbol=SBIBPB
+
+
 
 
 
