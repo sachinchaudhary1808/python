@@ -70,11 +70,11 @@ for i in chapal:
 
 https://www.nseindia.com/api/NextApi/apiClient/GetQuoteApi?functionName=getSymbolData&marketType=N&series=EQ&symbol=SBIBPB
 
-
-
-
-
-
-
-    
-
+### count
+-> which returns count of the element.
+### pop
+-> returns last element from the list and also remove from the list
+```python
+pop(number)
+```
+  it will return the value of the specified index and remove from the list
