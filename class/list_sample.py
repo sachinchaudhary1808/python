@@ -20,7 +20,7 @@ list2 = list.extend(list1)
 print(list2)
 print(list)
 
-list.insert(3,52)
+list.insert(3, 52)
 print(list)
 list.remove(52)
 print(list)
