@@ -78,3 +78,43 @@ https://www.nseindia.com/api/NextApi/apiClient/GetQuoteApi?functionName=getSymbo
 pop(number)
 ```
   it will return the value of the specified index and remove from the list
+
+
+## UDF ( user defined function)
+-> to use multipal time same block of code we may use function.
+```python
+def namOfFunction(args):
+    # body of function
+    return 
+
+````
+
+### function without argument, without return
+```python
+def greetings():
+    print("ulala Be careful on saturday university have strict checking of Bajrang! dal")
+greetings()
+
+```
+
+### function with argument, without return
+```python
+def namOfFunction(args):
+    # body
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
