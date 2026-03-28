@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
 data = {"x": [2, 4, 6, 8], "y": [3, 5, 7, 9]}
 df = pd.DataFrame(data)
 print(df)
